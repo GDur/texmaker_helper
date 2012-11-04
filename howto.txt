@@ -1,0 +1,11 @@
+This works with the texmakerwin32usb version and after you did set it up
+
+SETUP TEXMAKER_HELPER
+- put the texmaker_helper.exe into the same folder where the texmaker.exe is
+
+- look for a .tex-file and right-click it
+	- open with > standard program... >
+		- make sure the checkbox in the left bottom IS CHECKED! it is by default!
+		- click the browse button
+			- find the texmaker_helper.exe in the following window 
+				- press the OK button
