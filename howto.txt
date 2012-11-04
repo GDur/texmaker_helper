@@ -9,3 +9,11 @@ SETUP TEXMAKER_HELPER
 		- click the browse button
 			- find the texmaker_helper.exe in the following window 
 				- press the OK button
+
+USING TEXMAKER_HELPER
+- open a .tex-file through texmaker_helper.exe with texmaker
+	- in the bottom right (the tray-menu) will be a texmaker icon
+		- right-click it and press show tips to get tips
+			press F5 to rebuild your pdf even when it's opened and go to the last opened page
+
+by GDur
